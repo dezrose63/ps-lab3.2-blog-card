@@ -1,5 +1,14 @@
-<img width="466" height="536" alt="image" src="https://github.com/user-attachments/assets/c2d58bfd-c1ea-420f-9043-78571eca9c95" />
+<img width="498" height="103" alt="image" src="https://github.com/user-attachments/assets/38f3794e-58c4-4b3d-a31e-4ef089121296" />
 
+#  Per Scholas Software Engineer Bootcamp LAB 3.2
+
+## Do you want to get ***free*** tech training from Per Scholas? 
+
+## [Click Here to find out how!](https://perscholas.referralrock.com/l/7MIDHLPB/) 
+
+*************************************************************************************************************
+
+<img width="466" height="536" alt="image" src="https://github.com/user-attachments/assets/c2d58bfd-c1ea-420f-9043-78571eca9c95" />
 
 ### Links
 
@@ -20,7 +29,9 @@
 - Website - Desiree Rose
 - Frontend Mentor - https://www.frontendmentor.io/profile/dezrose63
 
-# Per Scholas Lab:
+**************************************************************************************************
+
+# Per Scholas Lab 3.2:
 
 This lab will introduce you to Frontend Mentor, a tool providing real-world coding challenges. Frontend Mentor will help you practice translating Figma designs into HTML and CSS and give you a taste of professional front-end development workflows. The hands-on challenges will enhance your proficiency with core web development tools and refine your ability to implement design specifications accurately.
 
